@@ -103,7 +103,6 @@ a {
     @include align-items(center);
     padding: 6rem;
     height: 100%;
-    // max-width: 66%;
 }
 
 .header {
@@ -130,20 +129,6 @@ a {
     width: 100%;
 }
 
-.pop-media {
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 300px;
-    height: 200px;
-    pointer-events: none;
-    opacity: 0;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-size: cover;
-}
-
 .nobr {
     white-space: nowrap;
 }
@@ -162,6 +147,15 @@ a {
     }
     .nobr {
         white-space: normal;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .links {
+        @include flex-direction(column);
+        a {
+            margin-top: 1em;
+        }
     }
 }
 
