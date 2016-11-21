@@ -15,3 +15,16 @@ sass --watch css/main.scss:css/main.css
 As long as you keep this terminal window open, sass will keep main.css up-to-date in the background
 
 Make your changes to main.scss :)
+
+![](pata.gif)
+
+## Credits
+
+Design:
+- **Maxine Tsang** ([maxinetsang.com](http://maxinetsang.com/))
+
+Development:
+- **Christian Gimber** ([christiangimber.com](http://christiangimber.com/))
+
+Typeface:
+- **Poppins by Indian Type Foundry** ([Poppins - Google Fonts](https://fonts.google.com/specimen/Poppins))
