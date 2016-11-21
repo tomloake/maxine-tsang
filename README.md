@@ -16,7 +16,7 @@ As long as you keep this terminal window open, sass will keep main.css up-to-dat
 
 Make your changes to main.scss :)
 
-![](pingu.gif)
+![](img/pingu.gif)
 
 ## Credits
 
