@@ -3,7 +3,10 @@ personal site for a great friend
 
 [maxinetsang.com](http://maxinetsang.com/)
 
-## Getting Started
+![](img/demo.gif)
+
+## Getting Started :memo:
+
 Install [sass](http://sass-lang.com/) with the following command: 
 ```
 sudo gem install sass
@@ -18,7 +21,13 @@ Make your changes to main.scss :)
 
 ![](img/pingu.gif)
 
-## Credits
+## Recognition :heart_eyes:
+
+- ([One Page Love](https://onepagelove.com/maxine-tsang))
+
+- ([The Gallery](http://thegallery.io/))
+
+## Credits :clap:
 
 Design:
 - **Maxine Tsang** ([maxinetsang.com](http://maxinetsang.com/))
